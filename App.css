@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #f4f6f9;
+}
+
+.main-heading {
+  text-align: center;
+  margin: 20px 0;
+}
+
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+
+.book-card {
+  background: peachpuff;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+
+.book-author {
+  color: black;
+}
+
+
+button {
+  padding: 6px 12px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0056b3;
+}
+
+
+.book-detail {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+
+.back-link {
+  color: #007bff;
+  text-decoration: none;
+}
